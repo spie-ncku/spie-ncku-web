@@ -1,0 +1,3 @@
+[submodule "themes/cube"]
+	path = themes/cube
+	url = git@github.com:spie-ncku/hexo-theme-cube.git
