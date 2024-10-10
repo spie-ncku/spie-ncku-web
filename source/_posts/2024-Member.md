@@ -24,7 +24,7 @@ tags:
     </td>
     <td valign="top" style="padding:8px;">
       <a href="https://sites.google.com/site/npclhsu/project-definition">
-        <strong>Prof. Wei-Chi Lai</strong>
+        <strong>Prof. Hsu-Cheng Hsu</strong>
       </a><br>
       <a href="mailto:hsuhc@mail.ncku.edu.tw">hsuhc@mail.ncku.edu.tw</a>
     </td>
