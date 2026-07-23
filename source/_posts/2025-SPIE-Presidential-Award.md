@@ -1,7 +1,7 @@
 ---
 title: 2025 SPIE Presidential Award
 date: 2025-05-09 12:08:49
-tags:
+tags: Announcement
 ---
 
 Congratulations to the 2025 SPIE Presidential Award for Outstanding Student Chapter recipient! ![👏](https://static.xx.fbcdn.net/images/emoji.php/v9/tfe/1/16/1f44f.png) 
